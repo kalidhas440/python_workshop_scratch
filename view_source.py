@@ -1,3 +1,3 @@
 import inspect
 
-print(inspect())
+print(inspect(range()))
