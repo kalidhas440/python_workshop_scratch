@@ -1,3 +1,3 @@
 import inspect
 
-print(inspect(range()))
+print(inspect.getsource(range))
