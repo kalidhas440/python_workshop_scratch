@@ -3,3 +3,13 @@ Setting up watches.  Beware: since -r was given, this may take a while!
 Watches established.
 ./ MODIFY nohup.out
 [23:55:51] Changes detected. Syncing with GitHub...
+[main 5928989] auto commit
+ 2 files changed, 1 insertion(+), 124 deletions(-)
+ rename autopush.sh => .autopush.sh (100%)
+To github.com:kalidhas440/python_workshop_scratch.git
+   1343f87..5928989  main -> main
+[23:55:57] Successfully pushed to GitHub.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+./ MODIFY nohup.out
+[23:56:07] Changes detected. Syncing with GitHub...
