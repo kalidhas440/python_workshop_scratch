@@ -1,1 +1,3 @@
 import inspect
+
+print(inspect())
